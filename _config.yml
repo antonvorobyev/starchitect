@@ -5,7 +5,7 @@ title: Starchitect
 email: anton@vorobyev.co
 # TODO: Chech grammary and fill with more prosaic description
 description: >
-  Starchitect is all about and beyond software engineering and architecture.
+  Starchitect is all about and beyond software engineering and architecture
 # TODO: Clear using of post log, all log, etc
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://starchitect.info" # the base hostname & protocol for your site
