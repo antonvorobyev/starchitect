@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Starchitect is weblog, knowledge base and source code repository. This all about 
+software engineering and architecture. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Initial author of Starchitect is Anton Vorobyev. I (Anton) am 
+software engineer with a decade of experience with development using Java, JavaScript,
+Semantic Web, SQL, Web Services and other programming languages, tools and methods.
+ 
+I'll always be glad to communicate with you. You can write to me on e-mail anton@vorobyev.co.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Thank you for reading Starchitect.
