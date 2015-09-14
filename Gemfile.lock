@@ -1,4 +1,4 @@
-GEM
+  remote: https://rubygems.org/
   specs:
     RedCloth (4.2.9)
     activesupport (4.2.4)
@@ -170,7 +170,8 @@ DEPENDENCIES
   github-pages
   guard
   guard-livereload
-  jekyll
+  jekyll (= 2.4.0)
+  json
 
 BUNDLED WITH
    1.10.6
