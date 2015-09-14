@@ -18,3 +18,4 @@ timezone: Asia/Yekaterinburg
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
