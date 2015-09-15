@@ -20,3 +20,4 @@ timezone: Asia/Yekaterinburg
 markdown: kramdown
 highlighter: pygments
 exclude: [Gemfile, Gemfile.lock, contributors.txt, Guardfile, guard.ps1, starchitect.iml]
+permalink: /:title/
